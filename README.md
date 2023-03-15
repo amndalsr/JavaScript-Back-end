@@ -19,3 +19,21 @@ As funções são blocos de código que podem ser chamados repetidamente, aceita
 As classes são uma maneira mais recente de definir objetos em JavaScript e fornecem uma maneira mais estruturada e orientada a objetos de organizar o código. As classes são definidas usando a palavra-chave "class" seguida pelo nome da classe e um bloco de código dentro de chaves {}. As classes podem ter propriedades e métodos, que são funções associadas à classe.
 Uma das vantagens das classes em relação às funções é que elas fornecem uma maneira mais clara e organizada de criar objetos com propriedades e métodos relacionados. Além disso, as classes podem ser estendidas e herdar propriedades e métodos de outras classes usando a palavra-chave "extends".
 As funções e classes em JavaScript são ferramentas poderosas para criar e reutilizar código em aplicativos da web. A escolha entre uma função ou uma classe depende do caso de uso específico e da preferência pessoal do desenvolvedor.
+
+### 4- Algoritmos de ordenação:
+Em JavaScript, existem vários algoritmos de ordenação disponíveis para ordenar arrays de elementos. Aqui estão alguns dos mais comuns:
+Bubble Sort: Este é um dos algoritmos de ordenação mais simples e lentos. Ele percorre o array várias vezes, comparando pares adjacentes de elementos e trocando-os se estiverem fora de ordem.
+
+- Selection Sort: Este algoritmo percorre o array várias vezes, selecionando o menor elemento e trocando-o com o primeiro elemento não classificado.
+
+- Insertion Sort: Este algoritmo percorre o array e insere cada elemento em sua posição correta na parte classificada do array.
+
+- Merge Sort: Este algoritmo divide o array em pedaços menores, classifica cada pedaço e, em seguida, mescla os pedaços classificados em um array classificado maior.
+
+- Quick Sort: Este algoritmo divide o array em torno de um elemento pivô e classifica os elementos menores e maiores em dois sub-arrays. Em seguida, ele chama recursivamente o quicksort em cada sub-array.
+
+- Heap Sort: Este algoritmo transforma o array em uma estrutura de dados de heap e, em seguida, remove recursivamente o maior elemento e o insere no final do array.
+
+Cada algoritmo de ordenação tem suas próprias vantagens e desvantagens em termos de velocidade e eficiência, dependendo do tamanho e do tipo de dados a serem ordenados. É importante escolher o algoritmo de ordenação correto para o caso de uso específico para obter os melhores resultados. Em JavaScript, a maioria dos algoritmos de ordenação é implementada como funções que podem ser facilmente chamadas em um array.
+
+### 5- 
