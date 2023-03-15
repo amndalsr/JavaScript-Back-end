@@ -1,4 +1,4 @@
-## JavaScript com foco no Back-end
+## JavaScript com foco no Back-end 💻
 
 ### 🎏1- Arrays: 
 Arrays em JavaScript são uma estrutura de dados que permite armazenar e acessar uma coleção de elementos em uma única variável. Os elementos podem ser de qualquer tipo de dados, incluindo strings, números, objetos e até outros arrays.
